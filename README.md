@@ -118,5 +118,3 @@ Supervisor: **Dr. David Ian Forsyth**
 ## 📝 License
 This project is licensed under the [MIT License](LICENSE).
 
-
-## 📂 Repository Structure
