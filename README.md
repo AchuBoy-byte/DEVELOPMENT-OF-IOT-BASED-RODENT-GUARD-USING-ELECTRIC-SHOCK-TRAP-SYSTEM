@@ -93,7 +93,7 @@ The IoT-Based Rodent Guard achieved its objectives by integrating IoT, Arduino, 
 ## 📲 Software & Tools
 - **Arduino IDE** – Programming microcontroller  
 - **Blynk App** – IoT monitoring & notifications  
-- **Proteus / Fritzing (optional)** – Simulation & circuit design  
+- **Proteus** – Simulation & circuit design  
 
 ---
 
@@ -117,4 +117,14 @@ Supervisor: **Dr. David Ian Forsyth**
 
 ## 📝 License
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🔒 Source Code & Documentation
+The Arduino code (`.ino` files) and detailed technical documents are **not publicly available**.  
+If you are an academic reviewer, researcher, or collaborator and wish to access them, please contact me directly:  
+
+📧 Email: rishi21122000@gmail.com
+
+
 
